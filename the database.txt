@@ -1,0 +1,155 @@
+                                                     TRANSPOSTS
+Trade Aerial:
+Sn: 5
+Brand: airbus
+Speed: 1000
+Category: International
+Type: Trade
+Lenght: 50
+minWight: 20000
+maxWight: 50000
+Date: (1/1/2000)
+*******************************
+Civil Aerial:
+Sn: 4
+Brand: airbus
+Speed: 1000
+Category: Government
+Type: Civil
+Lenght: 60
+minWight: 40000
+maxWight: 50000
+Date: (1/1/2000)
+*******************************
+Truck:
+Sn: 3
+Brand: KIA
+Speed: 120
+Category: International
+Type: Trade
+Lenght: 16
+minWight: 12000
+maxWight: 20000
+Date: (1/1/2000)
+*******************************
+Bus:
+Sn: 2
+Brand: toyota
+Speed: 120
+Category: Government
+Type: Civil
+Lenght: 9
+minWight: 6000
+maxWight: 7500
+Date: (1/1/2000)
+*******************************
+Personal Car:
+Sn: 1
+Brand: BMW
+Speed: 220
+Category: Personal
+Type: Civil
+Lenght: 3
+minWight: 2000
+maxWight: 2300
+////////////////////////////////////////////////////////////////////////////////////////
+                                                       JOURNEYS
+Journey Number: 5
+Sn: 5
+Type: Trade
+Journey Date: (5/5/2020)
+From: damas
+To: jadaa
+Min Wight: 20000
+Current Wight: 50000
+goods Wight: 30000
+Max Wight: 50000
+____________________________________________
+Journey Number: 4
+Sn: 4
+Type: Civil
+Journey Date: (30/12/2019)
+From: damas
+To: paris
+Seats Numbers : 10
+Seats:
+        Seat Number: 1   Wight: 25
+        Seat Number: 2   Wight: 25
+        Seat Number: 3   Wight: 23
+        Seat Number: 11  Wight: 2
+        Seat Number: 54  Wight: 25
+        Seat Number: 66  Wight: 21
+        Seat Number: 88  Wight: 25
+        Seat Number: 93  Wight: 20
+        Seat Number: 99  Wight: 24
+        Seat Number: 100         Wight: 1
+Min Wight: 40000
+Current Wight: 48191
+More Trade Wight:8118
+goods Wight: 8118
+Max Wight: 50000
+____________________________________________
+Journey Number: 3
+Sn: 3
+Type: Trade
+Journey Date: (1/1/2020)
+From: damas
+To: homs
+Min Wight: 12000
+Current Wight: 20000
+goods Wight: 8000
+Max Wight: 20000
+____________________________________________
+Journey Number: 2
+Sn: 2
+Type: Civil
+Journey Date: (25/12/2019)
+From: damas
+To: tartos
+Seats Numbers : 5
+Seats:
+        Seat Number: 3   Wight: 13
+        Seat Number: 5   Wight: 2
+        Seat Number: 11  Wight: 23
+        Seat Number: 22  Wight: 25
+        Seat Number: 32  Wight: 25
+Min Wight: 6000
+Current Wight: 6588
+More Trade Wight:573
+goods Wight: 573
+Max Wight: 7500
+____________________________________________
+Journey Number: 6
+Sn: 1
+Type: Civil
+Journey Date: (30/12/2019)
+From: homs
+To: tartos
+Seats Numbers : 2
+Seats:
+        Seat Number: 1   Wight: 22
+        Seat Number: 3   Wight: 25
+Min Wight: 2000
+Current Wight: 2047
+More Trade Wight:25
+goods Wight: 25
+Max Wight: 2300
+____________________________________________
+Journey Number: 1
+Sn: 1
+Type: Civil
+Journey Date: (25/12/2019)
+From: damas
+To: homs
+Seats Numbers : 3
+Seats:
+        Seat Number: 1   Wight: 22
+        Seat Number: 2   Wight: 23
+        Seat Number: 3   Wight: 25
+Min Wight: 2000
+Current Wight: 2070
+More Trade Wight:0
+goods Wight: 0
+Max Wight: 2300
+____________________________________________
+////////////////////////////////////////////////////////////////////////////////////////

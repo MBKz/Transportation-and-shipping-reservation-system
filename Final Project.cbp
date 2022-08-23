@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Final Project" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Final Project" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Final Project" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="include/Aerial.h" />
+		<Unit filename="include/Bus.h" />
+		<Unit filename="include/CivilAerial.h" />
+		<Unit filename="include/Date.h" />
+		<Unit filename="include/Design.h" />
+		<Unit filename="include/Journey.h" />
+		<Unit filename="include/PersonalCar.h" />
+		<Unit filename="include/Seat.h" />
+		<Unit filename="include/TradeAerial.h" />
+		<Unit filename="include/Transport.h" />
+		<Unit filename="include/Truck.h" />
+		<Unit filename="include/Wilderness.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/Aerial.cpp" />
+		<Unit filename="src/Bus.cpp" />
+		<Unit filename="src/CivilAerial.cpp" />
+		<Unit filename="src/Date.cpp" />
+		<Unit filename="src/Journey.cpp" />
+		<Unit filename="src/PersonalCar.cpp" />
+		<Unit filename="src/Seat.cpp" />
+		<Unit filename="src/TradeAerial.cpp" />
+		<Unit filename="src/Transport.cpp" />
+		<Unit filename="src/Truck.cpp" />
+		<Unit filename="src/Wilderness.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
